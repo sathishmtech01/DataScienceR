@@ -1,0 +1,382 @@
+address,city,state,zip,price,sqft,bedrooms,bathrooms,days_on_zillow,sale_type,url
+172 Forsyth St APT 1B,New York,NY,10002,400000,400.0,1.0,1.0,90,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/172-Forsyth-St-APT-1B-New-York-NY-10002/244810470_zpid/
+309 E Houston St # PHB,New York,NY,10002,750000,NA,2.0,1.0,78,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/309-E-Houston-St-PHB-New-York-NY-10002/2090937332_zpid/
+175 Rivington St APT 5E,New York,NY,10002,438000,NA,1.0,1.0,25,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/175-Rivington-St-APT-5E-New-York-NY-10002/72511428_zpid/
+27 Essex St APT 5B,NEW YORK,NY,10002,725000,400.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/27-Essex-St-APT-5B-New-York-NY-10002/31495698_zpid/
+455 Fdr Dr APT B803,New York,NY,10002,499000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/455-Fdr-Dr-APT-B803-New-York-NY-10002/2089947519_zpid/
+170 Norfolk St APT 13,New York,NY,10002,525000,500.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/170-Norfolk-St-APT-13-New-York-NY-10002/79493711_zpid/
+101 Allen St APT 4C,NEW YORK,NY,10002,438000,NA,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/101-Allen-St-APT-4C-New-York-NY-10002/31496247_zpid/
+53 Stanton St APT 5D,New York,NY,10002,690000,NA,2.0,1.0,72,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/53-Stanton-St-APT-5D-New-York-NY-10002/2090867401_zpid/
+30 Rutgers St APT 2A,NEW YORK,NY,10002,899000,798.0,2.0,1.0,51,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-Rutgers-St-APT-2A-New-York-NY-10002/89334415_zpid/
+110 Forsyth St APT 11F,New York,NY,10002,689000,NA,2.0,1.0,2,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/110-Forsyth-St-APT-11F-New-York-NY-10002/2089623091_zpid/
+252 South St # 25P,Manhattan,NY,10002,1540000,723.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-South-St-25P-Manhattan-NY-10002/2089608935_zpid/
+252 South St # 29A,Manhattan,NY,10002,2585000,1162.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-South-St-29A-Manhattan-NY-10002/2089608933_zpid/
+196 Orchard St # 10E,New York,NY,10002,5590000,2069.0,3.0,4.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/196-Orchard-St-10E-New-York-NY-10002/2097009616_zpid/
+115 Norfolk St # 5,NEW YORK,NY,10002,1495000,888.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/115-Norfolk-St-5-New-York-NY-10002/117458166_zpid/
+575 Grand St APT E1101,New York,NY,10002,869000,NA,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/575-Grand-St-APT-E1101-New-York-NY-10002/244707983_zpid/
+113 Eldridge St APT 4A,NEW YORK,NY,10002,899000,911.0,1.0,2.0,35,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/113-Eldridge-St-APT-4A-New-York-NY-10002/63864178_zpid/
+575 Grand St APT 1803,New York,NY,10002,595000,NA,1.0,1.0,11,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/575-Grand-St-APT-1803-New-York-NY-10002/2090751990_zpid/
+196 Orchard St # 9B,New York,NY,10002,2350000,1042.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/196-Orchard-St-9B-New-York-NY-10002/2096377860_zpid/
+252 South St # 70C,Manhattan,NY,10002,4318000,1487.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-South-St-70C-Manhattan-NY-10002/2094734669_zpid/
+252 South St # 59E,Manhattan,NY,10002,3527000,1400.0,3.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-South-St-59E-Manhattan-NY-10002/2094817325_zpid/
+550 Grand St APT GGE,New York,NY,10002,859000,1000.0,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/550-Grand-St-APT-GGE-New-York-NY-10002/2098959352_zpid/
+178 Suffolk St APT 4,New York,NY,10002,2500000,2200.0,3.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/178-Suffolk-St-APT-4-New-York-NY-10002/72511435_zpid/
+477 Fdr Dr APT M704,New York,NY,10002,899000,1000.0,2.0,1.0,38,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/477-Fdr-Dr-APT-M704-New-York-NY-10002/72511228_zpid/
+252 South St # 59A,Manhattan,NY,10002,4398000,1667.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-South-St-59A-Manhattan-NY-10002/2094734671_zpid/
+550 Grand St APT GGF,New York,NY,10002,1100000,NA,3.0,2.0,9,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/550-Grand-St-APT-GGF-New-York-NY-10002/2089743413_zpid/
+573 Grand St APT D1602,New York,NY,10002,635000,800.0,1.0,1.0,92,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/573-Grand-St-APT-D1602-New-York-NY-10002/244734868_zpid/
+252 South St # 35C,Manhattan,NY,10002,3792000,1487.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-South-St-35C-Manhattan-NY-10002/2096294259_zpid/
+252 South St # 10L,Manhattan,NY,10002,2038000,1123.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-South-St-10L-Manhattan-NY-10002/2094375601_zpid/
+170 Eldridge St,NEW YORK,NY,10002,9500000,6000.0,0.0,NA,753,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/170-Eldridge-St-New-York-NY-10002/122190380_zpid/
+252 South St # 50G,Manhattan,NY,10002,2617000,1156.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-South-St-50G-Manhattan-NY-10002/2092068003_zpid/
+252 South St # 68B,Manhattan,NY,10002,2692000,1034.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-South-St-68B-Manhattan-NY-10002/2089623117_zpid/
+387 Grand St APT K1002,New York,NY,10002,688000,821.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/387-Grand-St-APT-K1002-New-York-NY-10002/244896240_zpid/
+252 South St # 48K,Manhattan,NY,10002,2517000,1123.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-South-St-48K-Manhattan-NY-10002/2094749666_zpid/
+252 South St # 37J,Manhattan,NY,10002,1445000,695.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-South-St-37J-Manhattan-NY-10002/2094375602_zpid/
+252 South St # 12E,Manhattan,NY,10002,2150000,1123.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-South-St-12E-Manhattan-NY-10002/2094817324_zpid/
+252 South St # 11D,Manhattan,NY,10002,2378000,1123.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-South-St-11D-Manhattan-NY-10002/2094789824_zpid/
+252 South St # 72G,Manhattan,NY,10002,1630000,688.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-South-St-72G-Manhattan-NY-10002/2094749667_zpid/
+38 Delancey St APT 6B,New York,NY,10002,1895000,1002.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/38-Delancey-St-APT-6B-New-York-NY-10002/2090295858_zpid/
+215 Chrystie St # 28WE,New York,NY,10002,15945000,4220.0,5.0,6.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-Chrystie-St-28WE-New-York-NY-10002/2090645858_zpid/
+252 South St # 25G,Manhattan,NY,10002,1303000,723.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-South-St-25G-Manhattan-NY-10002/2094803529_zpid/
+42 Allen St # 3B,New York,NY,10002,1850000,1364.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/42-Allen-St-3B-New-York-NY-10002/2091959261_zpid/
+252 South St # 61K,Manhattan,NY,10002,1737000,688.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-South-St-61K-Manhattan-NY-10002/2094735690_zpid/
+252 South St # 9K,Manhattan,NY,10002,1230000,695.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-South-St-9K-Manhattan-NY-10002/2089623120_zpid/
+252 South St # 53F,Manhattan,NY,10002,1450000,722.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-South-St-53F-Manhattan-NY-10002/2094803528_zpid/
+154 Attorney St # 701/702,New York,NY,10002,6500000,3646.0,7.0,5.0,71,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/154-Attorney-St-701-702-New-York-NY-10002/2090836818_zpid/
+475 Fdr Dr APT L2005,New York,NY,10002,1500000,1250.0,3.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/475-Fdr-Dr-APT-L2005-New-York-NY-10002/219639003_zpid/
+575 Grand St APT E301,New York,NY,10002,775000,1055.0,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/575-Grand-St-APT-E301-New-York-NY-10002/2092101359_zpid/
+413 Grand St APT F606,New York,NY,10002,1100000,1092.0,2.0,1.0,89,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/413-Grand-St-APT-F606-New-York-NY-10002/2091101087_zpid/
+204 Forsyth St # MAISONETTE,New York,NY,10002,4495000,2758.0,3.0,3.0,242,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/204-Forsyth-St-MAISONETTE-New-York-NY-10002/2092825989_zpid/
+75 Ludlow St # 4A,New York,NY,10002,2665520,1646.0,3.0,2.0,22,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Ludlow-St-4A-New-York-NY-10002/2089965753_zpid/
+21 Ludlow St # 3-B,New York,NY,10002,1050000,650.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/21-Ludlow-St-3-B-New-York-NY-10002/2138635778_zpid/
+154 Attorney St # 701,NEW YORK,NY,10002,3500000,1771.0,4.0,3.0,74,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/154-Attorney-St-701-New-York-NY-10002/80012793_zpid/
+575 Grand St APT E1804,New York,NY,10002,635000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/575-Grand-St-APT-E1804-New-York-NY-10002/244889186_zpid/
+550 Grand St APT J4A,New York,NY,10002,799000,1000.0,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/550-Grand-St-APT-J4A-New-York-NY-10002/2090188077_zpid/
+473 Fdr Dr APT K903,New York,NY,10002,659000,800.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/473-Fdr-Dr-APT-K903-New-York-NY-10002/2089855500_zpid/
+302 Broome St APT 3B,NEW YORK,NY,10002,799000,673.0,1.0,1.0,593,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/302-Broome-St-APT-3B-New-York-NY-10002/31496304_zpid/
+475 Fdr Dr # L206/207,New York,NY,10002,1650000,1600.0,4.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/475-Fdr-Dr-L206-207-New-York-NY-10002/2090953621_zpid/
+287 E Houston St # PHB,New York,NY,10002,5700000,1953.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/287-E-Houston-St-PHB-New-York-NY-10002/2089940896_zpid/
+417 Grand St APT D301,New York,NY,10002,725000,800.0,1.0,1.0,86,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/417-Grand-St-APT-D301-New-York-NY-10002/2091057514_zpid/
+504 Grand St APT A15,New York,NY,10002,850000,NA,2.0,1.0,12,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/504-Grand-St-APT-A15-New-York-NY-10002/245086269_zpid/
+268 E Broadway APT 104,New York,NY,10002,1100000,1000.0,2.0,1.0,11,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/268-E-Broadway-APT-104-New-York-NY-10002/2094533762_zpid/
+48 Hester St APT 2C,New York,NY,10002,1050000,778.0,2.0,1.0,42,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/48-Hester-St-APT-2C-New-York-NY-10002/31495593_zpid/
+125 Henry St,New York,NY,10002,6000000,NA,0.0,NA,8,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/125-Henry-St-New-York-NY-10002/2089715003_zpid/
+268 E Broadway APT A2003,New York,NY,10002,899000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/268-E-Broadway-APT-A2003-New-York-NY-10002/2089990929_zpid/
+71 Ludlow St APT 3A,NEW YORK,NY,10002,2150000,1646.0,3.0,2.0,32,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/71-Ludlow-St-APT-3A-New-York-NY-10002/97518317_zpid/
+383 Grand St APT M1803,New York,NY,10002,985000,750.0,1.0,1.0,43,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/383-Grand-St-APT-M1803-New-York-NY-10002/219638382_zpid/
+455 Fdr Dr APT B401,New York,NY,10002,799000,1055.0,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/455-Fdr-Dr-APT-B401-New-York-NY-10002/2090287048_zpid/
+142 Henry St APT 7,NEW YORK,NY,10002,3275000,1900.0,3.0,2.0,36,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/142-Henry-St-APT-7-New-York-NY-10002/69524014_zpid/
+115 Norfolk St APT 501,NEW YORK,NY,10002,1495000,888.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/115-Norfolk-St-APT-501-New-York-NY-10002/117455994_zpid/
+118 Forsyth St APT 2,New York,NY,10002,3250000,2300.0,2.0,2.0,28,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/118-Forsyth-St-APT-2-New-York-NY-10002/72511671_zpid/
+568 Grand St APT J502,New York,NY,10002,649000,NA,1.0,1.0,21,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/568-Grand-St-APT-J502-New-York-NY-10002/72511241_zpid/
+550 Grand St APT H10C,New York,NY,10002,825000,NA,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/550-Grand-St-APT-H10C-New-York-NY-10002/72511390_zpid/
+311 Cherry St APT L2,New York,NY,10002,1680000,1239.0,4.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/311-Cherry-St-APT-L2-New-York-NY-10002/2090864919_zpid/
+310 E Houston St APT 5A,NEW YORK,NY,10002,1150000,722.0,1.0,1.0,14,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/310-E-Houston-St-APT-5A-New-York-NY-10002/83941868_zpid/
+242 Broome St # 9C,New York,NY,10002,2900000,1522.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/242-Broome-St-9C-New-York-NY-10002/2094562439_zpid/
+215 Chrystie St # 29WEST,New York,NY,10002,9995000,1977.0,2.0,3.0,80,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-Chrystie-St-29WEST-New-York-NY-10002/2100279585_zpid/
+105 Norfolk St APT 11B,New York,NY,10002,1875000,1401.0,2.0,2.0,87,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/105-Norfolk-St-APT-11B-New-York-NY-10002/2129887723_zpid/
+199 Bowery APT 8B,NEW YORK,NY,10002,1300000,610.0,1.0,1.0,22,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/199-Bowery-APT-8B-New-York-NY-10002/80008102_zpid/
+417 Grand St APT D2005,New York,NY,10002,975000,800.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/417-Grand-St-APT-D2005-New-York-NY-10002/2090779453_zpid/
+287 E Houston St # 10A,New York,NY,10002,2700000,1185.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/287-E-Houston-St-10A-New-York-NY-10002/2089743410_zpid/
+100 Norfolk St # 5B,New York,NY,10002,2095000,1097.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/100-Norfolk-St-5B-New-York-NY-10002/2104982266_zpid/
+109 Norfolk St APT 3,NEW YORK,NY,10002,2095000,1446.0,2.0,2.0,158,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/109-Norfolk-St-APT-3-New-York-NY-10002/83935502_zpid/
+(undisclosed Address),New York,NY,10002,9750000,NA,0.0,NA,2032,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/(undisclosed-Address)-New-York-NY-10002/2116324148_zpid/
+504 Grand St APT F51,New York,NY,10002,849000,NA,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/504-Grand-St-APT-F51-New-York-NY-10002/2095880802_zpid/
+195 Bowery APT 10,NEW YORK,NY,10002,2999000,1811.0,2.0,3.0,211,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/195-Bowery-APT-10-New-York-NY-10002/65322151_zpid/
+154 Attorney St # 702,NEW YORK,NY,10002,3700000,1875.0,3.0,3.0,74,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/154-Attorney-St-702-New-York-NY-10002/79979265_zpid/
+75 Ludlow St # 2C,New York,NY,10002,2150000,1575.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Ludlow-St-2C-New-York-NY-10002/2112135995_zpid/
+255 Bowery # 4,New York,NY,10002,2250000,1201.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/255-Bowery-4-New-York-NY-10002/2100008910_zpid/
+550 Grand St APT H5G,New York,NY,10002,745000,750.0,1.0,1.0,120,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/550-Grand-St-APT-H5G-New-York-NY-10002/2104189329_zpid/
+287 E Houston St # 6A,New York,NY,10002,2745000,1386.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/287-E-Houston-St-6A-New-York-NY-10002/2094427440_zpid/
+71 Ludlow St APT 6A,NEW YORK,NY,10002,4300000,2150.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/71-Ludlow-St-APT-6A-New-York-NY-10002/97516304_zpid/
+577 Grand St APT F804,New York,NY,10002,875000,NA,2.0,1.0,64,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/577-Grand-St-APT-F804-New-York-NY-10002/2090723093_zpid/
+50 Clinton St # PHA,New York,NY,10002,3295000,1226.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-Clinton-St-PHA-New-York-NY-10002/2101764163_zpid/
+171 Henry St # 4B,New York,NY,10002,872100,684.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/171-Henry-St-4B-New-York-NY-10002/2091834161_zpid/
+134 Suffolk St UNIT D,New York,NY,10002,1195000,920.0,0.0,1.0,129,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/134-Suffolk-St-UNIT-D-New-York-NY-10002/2091650453_zpid/
+150 Rivington St # 4I,New York,NY,10002,1750000,864.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/150-Rivington-St-4I-New-York-NY-10002/2098337336_zpid/
+477 Fdr Dr # L1107,New York,NY,10002,659000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/477-Fdr-Dr-L1107-New-York-NY-10002/2090380514_zpid/
+475 Fdr Dr APT L306,New York,NY,10002,635000,800.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/475-Fdr-Dr-APT-L306-New-York-NY-10002/2096589337_zpid/
+196 Orchard St # 6R,New York,NY,10002,1725000,853.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/196-Orchard-St-6R-New-York-NY-10002/2090283577_zpid/
+150 Rivington St # 4F,New York,NY,10002,1065000,543.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/150-Rivington-St-4F-New-York-NY-10002/2095009585_zpid/
+530 Grand St APT D10C,New York,NY,10002,849000,NA,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/530-Grand-St-APT-D10C-New-York-NY-10002/2091065033_zpid/
+196 Orchard St # 4G,New York,NY,10002,2285000,970.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/196-Orchard-St-4G-New-York-NY-10002/2090408343_zpid/
+287 E Houston St # 5D,New York,NY,10002,1230000,624.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/287-E-Houston-St-5D-New-York-NY-10002/2089743411_zpid/
+196 Orchard St # 10D,New York,NY,10002,4200000,1555.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/196-Orchard-St-10D-New-York-NY-10002/2096377866_zpid/
+50 Orchard St APT 6A,New York,NY,10002,2295000,1443.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-Orchard-St-APT-6A-New-York-NY-10002/2090119753_zpid/
+171 Henry St # 3C,New York,NY,10002,1133750,907.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/171-Henry-St-3C-New-York-NY-10002/2091834162_zpid/
+150 Rivington St # 2C,New York,NY,10002,2750000,1378.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/150-Rivington-St-2C-New-York-NY-10002/2098320664_zpid/
+154 Attorney St APT 302,NEW YORK,NY,10002,1695000,1250.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/154-Attorney-St-APT-302-New-York-NY-10002/80011733_zpid/
+259 Bowery FL 5,New York,NY,10002,2750000,1450.0,1.0,1.0,15,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/259-Bowery-FL-5-New-York-NY-10002/2089840326_zpid/
+171 Henry St # 2A,New York,NY,10002,931500,690.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/171-Henry-St-2A-New-York-NY-10002/2091834159_zpid/
+50 Clinton St # 6C,New York,NY,10002,2450000,1142.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-Clinton-St-6C-New-York-NY-10002/244895822_zpid/
+50 Clinton St # 3D,New York,NY,10002,2295000,1175.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-Clinton-St-3D-New-York-NY-10002/244779859_zpid/
+215 Chrystie St # 28WEST,New York,NY,10002,7995000,1977.0,2.0,3.0,1222,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-Chrystie-St-28WEST-New-York-NY-10002/2103857940_zpid/
+242 Broome St # 5B,New York,NY,10002,1600000,892.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/242-Broome-St-5B-New-York-NY-10002/2093770733_zpid/
+50 Clinton St # 6E,New York,NY,10002,1995000,905.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-Clinton-St-6E-New-York-NY-10002/244692424_zpid/
+196 Orchard St # 10F,New York,NY,10002,2850000,1217.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/196-Orchard-St-10F-New-York-NY-10002/2090283579_zpid/
+133 Norfolk St # 1,New York,NY,10002,3395000,1700.0,2.0,2.0,542,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/133-Norfolk-St-1-New-York-NY-10002/2105644014_zpid/
+215 Chrystie St # 28EAST,New York,NY,10002,7950000,2243.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-Chrystie-St-28EAST-New-York-NY-10002/2103857941_zpid/
+568 Grand St APT J1805,New York,NY,10002,975000,800.0,1.0,1.0,237,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/568-Grand-St-APT-J1805-New-York-NY-10002/2098162673_zpid/
+287 E Houston St # 3B,New York,NY,10002,1395000,750.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/287-E-Houston-St-3B-New-York-NY-10002/2097181666_zpid/
+196 Orchard St # 5Q,New York,NY,10002,1400000,686.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/196-Orchard-St-5Q-New-York-NY-10002/2090408342_zpid/
+196 Orchard St # 5K,New York,NY,10002,1590000,753.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/196-Orchard-St-5K-New-York-NY-10002/2090283581_zpid/
+196 Orchard St # 4D,New York,NY,10002,2750000,1205.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/196-Orchard-St-4D-New-York-NY-10002/2094625515_zpid/
+242 Broome St # PHC,New York,NY,10002,6250000,2181.0,3.0,4.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/242-Broome-St-PHC-New-York-NY-10002/2094562440_zpid/
+150 Rivington St # 6C,New York,NY,10002,1395000,682.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/150-Rivington-St-6C-New-York-NY-10002/2090855952_zpid/
+196 Orchard St # 5A,New York,NY,10002,1550000,822.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/196-Orchard-St-5A-New-York-NY-10002/2090287047_zpid/
+568 Grand St APT J1805,New York,NY,10002,975000,NA,1.0,1.0,92,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/568-Grand-St-APT-J1805-New-York-NY-10002/244848334_zpid/
+153 Bowery APT 3,NEW YORK,NY,10002,2650000,1358.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/153-Bowery-APT-3-New-York-NY-10002/65322137_zpid/
+50 Clinton St # 1B,New York,NY,10002,2495000,1760.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-Clinton-St-1B-New-York-NY-10002/244694223_zpid/
+242 Broome St # 12A,New York,NY,10002,2840000,1353.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/242-Broome-St-12A-New-York-NY-10002/2090258863_zpid/
+196 Orchard St # 9A,New York,NY,10002,2715000,1169.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/196-Orchard-St-9A-New-York-NY-10002/2090283574_zpid/
+196 Orchard St # PH11D,New York,NY,10002,3495000,1269.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/196-Orchard-St-PH11D-New-York-NY-10002/2090283573_zpid/
+287 E Houston St # MAISONETTE,New York,NY,10002,2700000,1382.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/287-E-Houston-St-MAISONETTE-New-York-NY-10002/2094442873_zpid/
+287 E Houston St # 3C,New York,NY,10002,1175000,624.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/287-E-Houston-St-3C-New-York-NY-10002/2094443583_zpid/
+100 Norfolk St # 9B,New York,NY,10002,2650000,1388.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/100-Norfolk-St-9B-New-York-NY-10002/2097130867_zpid/
+150 Rivington St # 4E,New York,NY,10002,2195000,1065.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/150-Rivington-St-4E-New-York-NY-10002/2090856934_zpid/
+150 Rivington St # 6B,New York,NY,10002,1185000,610.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/150-Rivington-St-6B-New-York-NY-10002/2093954256_zpid/
+38 Delancey St # 4CD,New York,NY,10002,4055000,1622.0,3.0,3.0,423,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/38-Delancey-St-4CD-New-York-NY-10002/2106008880_zpid/
+171 Henry St # 2D,New York,NY,10002,1316825,1075.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/171-Henry-St-2D-New-York-NY-10002/2091403231_zpid/
+242 Broome St # 7C,New York,NY,10002,2650000,1376.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/242-Broome-St-7C-New-York-NY-10002/2092287624_zpid/
+242 Broome St # 14B,New York,NY,10002,4750000,2011.0,3.0,4.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/242-Broome-St-14B-New-York-NY-10002/2091814126_zpid/
+242 Broome St # 10D,New York,NY,10002,2790000,1287.0,2.0,2.0,151,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/242-Broome-St-10D-New-York-NY-10002/2091814127_zpid/
+242 Broome St # 8F,New York,NY,10002,2500000,1229.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/242-Broome-St-8F-New-York-NY-10002/2096931861_zpid/
+50 Orchard St APT 2D,New York,NY,10002,2290000,1138.0,2.0,2.0,190,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-Orchard-St-APT-2D-New-York-NY-10002/2099694748_zpid/
+287 E Houston St # 5B,New York,NY,10002,1495000,750.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/287-E-Houston-St-5B-New-York-NY-10002/2092186609_zpid/
+150 Rivington St # 3A,New York,NY,10002,2275000,1215.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/150-Rivington-St-3A-New-York-NY-10002/2098337334_zpid/
+38 Delancey St # 4B,New York,NY,10002,2520000,1008.0,2.0,2.0,414,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/38-Delancey-St-4B-New-York-NY-10002/2131719444_zpid/
+Fdr Dr APT C1705,New York,NY,10002,NA,923000.0,0.0,NA,53,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/246128330_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Willett St,New York,NY,10002,NA,4731.0,NA,NA,366,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/245083648_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Grand St,New York,NY,10002,NA,40064.0,0.0,NA,255,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/245083647_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+264 E Broadway APT C201,New York,NY,10002,2450000,3000.0,4.0,4.0,92,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/264-E-Broadway-APT-C201-New-York-NY-10002/2091157243_zpid/
+Bowery APT 4A,New York,NY,10002,NA,911.0,NA,NA,248,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/242113008_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+E Broadway,New York,NY,10002,NA,11475.0,NA,NA,208,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/244690213_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Orchard St # 2-F,NEW YORK,NY,10002,NA,713.0,NA,NA,45,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/247194499_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Rivington St APT 9B,NEW YORK,NY,10002,NA,494.0,NA,NA,92,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/246128324_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Market St # 46,New York,NY,10002,NA,16996.0,NA,NA,43,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/247194495_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+10 West St # PH-2C,New York,NY,10004,10995000,4293.0,4.0,5.0,72,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/10-West-St-PH-2C-New-York-NY-10004/65316816_zpid/
+70 Little West St APT 30A,New York,NY,10004,7495000,3655.0,4.0,4.0,8,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-Little-West-St-APT-30A-New-York-NY-10004/2139037697_zpid/
+10 West St PH 1C,New York,NY,10004,9998000,3042.0,4.0,5.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/10-West-St-PH-1C-New-York-NY-10004/2091209335_zpid/
+21 S William St #PH,New York,NY,10004,4900000,2020.0,3.0,3.0,171,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/21-S-William-St-PH-New-York-NY-10004/2091998174_zpid/
+70 Little West St PH 1B,New York,NY,10004,6300000,2352.0,4.0,4.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-Little-West-St-PH-1B-New-York-NY-10004/2091207989_zpid/
+30 West St APT 5F,New York,NY,10004,2500000,2385.0,4.0,5.0,58,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-West-St-APT-5F-New-York-NY-10004/2090630285_zpid/
+40 Broad St # 15DD,New York,NY,10004,990000,940.0,1.0,2.0,8,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/40-Broad-St-15DD-New-York-NY-10004/2089716848_zpid/
+30 West St # 18DE,New York,NY,10004,3995000,2401.0,4.0,4.0,32,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-West-St-18DE-New-York-NY-10004/2101966672_zpid/
+30 West St APT 12F,New York,NY,10004,2975000,2097.0,3.0,4.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-West-St-APT-12F-New-York-NY-10004/2091107826_zpid/
+70 Little West St APT 12E,New York,NY,10004,3500000,1737.0,3.0,3.0,14,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-Little-West-St-APT-12E-New-York-NY-10004/89228985_zpid/
+3 Hanover Sq APT 2E,New York,NY,10004,1100000,1100.0,2.0,1.0,43,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/3-Hanover-Sq-APT-2E-New-York-NY-10004/79493263_zpid/
+26 Beaver St APT 14,New York,NY,10004,2295000,NA,3.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/26-Beaver-St-APT-14-New-York-NY-10004/244884631_zpid/
+30 West St APT 6G,New York,NY,10004,1390000,1190.0,2.0,2.0,24,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-West-St-APT-6G-New-York-NY-10004/2090020148_zpid/
+70 Little West St PH 1A,New York,NY,10004,4290000,1734.0,3.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-Little-West-St-PH-1A-New-York-NY-10004/2109642917_zpid/
+10 West St APT 29C,New York,NY,10004,3621000,2046.0,3.0,4.0,10,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/10-West-St-APT-29C-New-York-NY-10004/2089764212_zpid/
+40 Broad St,NEW YORK,NY,10004,1650000,1150.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-Broad-St-New-York-NY-10004/97528530_zpid/
+30 West St APT 4F,New York,NY,10004,2650000,2385.0,4.0,5.0,50,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-West-St-APT-4F-New-York-NY-10004/2091189366_zpid/
+20 West St APT 28F,NEW YORK,NY,10004,749900,663.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-West-St-APT-28F-New-York-NY-10004/79978443_zpid/
+10 West St APT 28A,New York,NY,10004,3250000,1552.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/10-West-St-APT-28A-New-York-NY-10004/2089836406_zpid/
+70 Little West St APT 5H,New York,NY,10004,1875000,1235.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-Little-West-St-APT-5H-New-York-NY-10004/89228950_zpid/
+20 West St APT 29F,NEW YORK,NY,10004,569000,417.0,0.0,1.0,150,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-West-St-APT-29F-New-York-NY-10004/80014330_zpid/
+20 West St APT 19G,NEW YORK,NY,10004,975000,1018.0,1.0,1.0,310,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-West-St-APT-19G-New-York-NY-10004/80007058_zpid/
+30 West St APT 32F,New York,NY,10004,4680000,2097.0,3.0,4.0,20,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-West-St-APT-32F-New-York-NY-10004/2136690252_zpid/
+70 Little West St APT 4B,New York,NY,10004,1925000,1311.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-Little-West-St-APT-4B-New-York-NY-10004/97536096_zpid/
+20 West St APT 39A,NEW YORK,NY,10004,795000,500.0,1.0,1.0,319,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-West-St-APT-39A-New-York-NY-10004/80004174_zpid/
+20 West St APT 39A,NEW YORK,NY,10004,795000,500.0,1.0,1.0,319,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-West-St-APT-39A-New-York-NY-10004/80004174_zpid/
+20 West St APT 39E,NEW YORK,NY,10004,675000,364.0,0.0,1.0,204,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-West-St-APT-39E-New-York-NY-10004/80013447_zpid/
+20 West St APT 15F,NEW YORK,NY,10004,675000,578.0,1.0,1.0,479,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-West-St-APT-15F-New-York-NY-10004/80009740_zpid/
+30 West St APT PH1B,New York,NY,10004,2275000,1404.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-West-St-APT-PH1B-New-York-NY-10004/2091189280_zpid/
+10 West St APT 34C,New York,NY,10004,3425000,1690.0,3.0,3.0,73,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/10-West-St-APT-34C-New-York-NY-10004/2090872783_zpid/
+10 West St APT 17A,New York,NY,10004,3850000,1944.0,3.0,4.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/10-West-St-APT-17A-New-York-NY-10004/2091189287_zpid/
+30 West St APT 4G,New York,NY,10004,1325000,1190.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-West-St-APT-4G-New-York-NY-10004/2091189238_zpid/
+40 Broad St APT 14B,NEW YORK,NY,10004,975000,859.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-Broad-St-APT-14B-New-York-NY-10004/89228368_zpid/
+20 West St APT 31C,NEW YORK,NY,10004,735000,482.0,0.0,1.0,52,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-West-St-APT-31C-New-York-NY-10004/69509667_zpid/
+20 West St APT 31B,NEW YORK,NY,10004,768000,544.0,0.0,1.0,98,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-West-St-APT-31B-New-York-NY-10004/80004827_zpid/
+40 Broad St APT 12F,NEW YORK,NY,10004,739000,613.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-Broad-St-APT-12F-New-York-NY-10004/89228364_zpid/
+3 Hanover Sq APT 3A,New York,NY,10004,649000,910.0,0.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/3-Hanover-Sq-APT-3A-New-York-NY-10004/244748410_zpid/
+40 Broad St APT 22A,NEW YORK,NY,10004,1150000,951.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-Broad-St-APT-22A-New-York-NY-10004/89228424_zpid/
+40 Broad St APT 15B,NEW YORK,NY,10004,1525000,1123.0,2.0,2.0,36,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-Broad-St-APT-15B-New-York-NY-10004/89228376_zpid/
+70 Little West St APT 8E,New York,NY,10004,2400000,1357.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-Little-West-St-APT-8E-New-York-NY-10004/89228964_zpid/
+70 Little West St APT 16E,New York,NY,10004,3860000,1737.0,3.0,3.0,54,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-Little-West-St-APT-16E-New-York-NY-10004/89228996_zpid/
+20 West St APT 19F,NEW YORK,NY,10004,838000,675.0,0.0,1.0,212,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-West-St-APT-19F-New-York-NY-10004/80009418_zpid/
+40 Broad St APT 11B,NEW YORK,NY,10004,1200000,859.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-Broad-St-APT-11B-New-York-NY-10004/89228353_zpid/
+40 Broad St PENTHOUSE 4B,New York,NY,10004,1445000,1071.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-Broad-St-PENTHOUSE-4B-New-York-NY-10004/89228502_zpid/
+70 Little West St APT 6C,New York,NY,10004,1195000,930.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-Little-West-St-APT-6C-New-York-NY-10004/89228952_zpid/
+10 West St APT 21C,New York,NY,10004,2795000,1690.0,2.0,3.0,67,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/10-West-St-APT-21C-New-York-NY-10004/2090790299_zpid/
+40 Broad St APT 17H,NEW YORK,NY,10004,1350000,1337.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-Broad-St-APT-17H-New-York-NY-10004/89228396_zpid/
+3 Hanover Sq APT 17G,New York,NY,10004,1049500,NA,1.0,1.0,92,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/3-Hanover-Sq-APT-17G-New-York-NY-10004/244868694_zpid/
+3 Hanover Sq APT 15E,New York,NY,10004,695000,700.0,0.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/3-Hanover-Sq-APT-15E-New-York-NY-10004/244885137_zpid/
+40 Broad St APT 17B,NEW YORK,NY,10004,1395000,1100.0,1.0,2.0,92,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-Broad-St-APT-17B-New-York-NY-10004/89228390_zpid/
+70 Little West St APT 15G,New York,NY,10004,1875000,1356.0,2.0,2.0,81,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-Little-West-St-APT-15G-New-York-NY-10004/97506534_zpid/
+10 West St APT 33C,New York,NY,10004,3095000,1690.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/10-West-St-APT-33C-New-York-NY-10004/2090568032_zpid/
+30 West St APT 31G,New York,NY,10004,2398000,1190.0,2.0,2.0,85,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-West-St-APT-31G-New-York-NY-10004/2110205517_zpid/
+70 Little West St APT 14B,New York,NY,10004,2225000,1311.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-Little-West-St-APT-14B-New-York-NY-10004/97527154_zpid/
+20 West St APT 35E,NEW YORK,NY,10004,799000,598.0,0.0,1.0,375,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-West-St-APT-35E-New-York-NY-10004/80013133_zpid/
+70 Little West St APT 9G,New York,NY,10004,1450000,925.0,1.0,2.0,109,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-Little-West-St-APT-9G-New-York-NY-10004/89228971_zpid/
+30 West St APT 23A,New York,NY,10004,2985000,1698.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-West-St-APT-23A-New-York-NY-10004/2091067084_zpid/
+40 Broad St APT 26D,NEW YORK,NY,10004,1265000,1049.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-Broad-St-APT-26D-New-York-NY-10004/89228459_zpid/
+20 West St APT 27E,NEW YORK,NY,10004,825000,662.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-West-St-APT-27E-New-York-NY-10004/80006360_zpid/
+30 West St APT 20E,New York,NY,10004,2380000,1526.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-West-St-APT-20E-New-York-NY-10004/2132878413_zpid/
+40 Broad St PENTHOUSE 4G,New York,NY,10004,1650000,1200.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-Broad-St-PENTHOUSE-4G-New-York-NY-10004/89228505_zpid/
+20 West St APT 34F,NEW YORK,NY,10004,715000,400.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-West-St-APT-34F-New-York-NY-10004/80013628_zpid/
+40 Broad St APT 11H,NEW YORK,NY,10004,1650000,1338.0,2.0,2.0,68,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-Broad-St-APT-11H-New-York-NY-10004/89228358_zpid/
+70 Little West St APT 8D,New York,NY,10004,1425000,886.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-Little-West-St-APT-8D-New-York-NY-10004/97520416_zpid/
+30 West St APT PH2C,New York,NY,10004,1899000,1150.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-West-St-APT-PH2C-New-York-NY-10004/2091189378_zpid/
+20 West St APT 21C,NEW YORK,NY,10004,679000,NA,0.0,1.0,151,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-West-St-APT-21C-New-York-NY-10004/69509661_zpid/
+20 West St APT 38H,NEW YORK,NY,10004,680000,439.0,0.0,1.0,147,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-West-St-APT-38H-New-York-NY-10004/80012146_zpid/
+10 West St APT 19E,New York,NY,10004,2995000,1459.0,2.0,2.0,94,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/10-West-St-APT-19E-New-York-NY-10004/2091189392_zpid/
+3 Hanover Sq APT 17G,New York,NY,10004,1049500,NA,1.0,1.0,43,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/3-Hanover-Sq-APT-17G-New-York-NY-10004/79493274_zpid/
+3 Hanover Sq APT 3A,New York,NY,10004,649000,910.0,0.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/3-Hanover-Sq-APT-3A-New-York-NY-10004/88888360_zpid/
+Broad St APT 20A,New York,NY,10004,NA,905.0,NA,NA,185,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/244690214_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+West St APT 30B,NEW YORK,NY,10004,NA,544.0,NA,NA,96,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/246175971_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+West St APT 22A,NEW YORK,NY,10004,NA,463.0,NA,NA,208,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154074232_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Broad St APT 24C,New York,NY,10004,NA,591.0,NA,NA,185,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/244690216_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Broad St APT 23H,New York,NY,10004,NA,1315.0,NA,NA,185,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/244690215_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+82 Beaver St APT 409,New York,NY,10005,925000,928.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/82-Beaver-St-APT-409-New-York-NY-10005/2089783480_zpid/
+55 Liberty St # 24D,New York,NY,10005,520000,725.0,1.0,1.0,43,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Liberty-St-24D-New-York-NY-10005/72510547_zpid/
+1 Wall Street Ct APT 1405,NEW YORK,NY,10005,1395000,1495.0,3.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Wall-Street-Ct-APT-1405-New-York-NY-10005/80011494_zpid/
+55 Liberty St # 24D,New York,NY,10005,520000,725.0,1.0,1.0,67,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Liberty-St-24D-New-York-NY-10005/244900454_zpid/
+75 Wall St APT 28A,NEW YORK,NY,10005,1230000,886.0,0.0,2.0,1,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-28A-New-York-NY-10005/89332797_zpid/
+55 Liberty St # PH31,New York,NY,10005,2695000,3000.0,4.0,4.0,53,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Liberty-St-PH31-New-York-NY-10005/2090559247_zpid/
+1 Wall Street Ct APT 1109,NEW YORK,NY,10005,1150000,949.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Wall-Street-Ct-APT-1109-New-York-NY-10005/80003606_zpid/
+75 Wall St APT 25E,New York,NY,10005,849000,669.0,0.0,1.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-25E-New-York-NY-10005/89332892_zpid/
+1 Wall Street Ct APT 1505,New York,NY,10005,1350000,1495.0,3.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Wall-Street-Ct-APT-1505-New-York-NY-10005/2095792024_zpid/
+1 Wall Street Ct APT 1306,NEW YORK,NY,10005,510000,367.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Wall-Street-Ct-APT-1306-New-York-NY-10005/79531857_zpid/
+67 Liberty St APT 12,NEW YORK,NY,10005,2395000,1616.0,3.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/67-Liberty-St-APT-12-New-York-NY-10005/121201182_zpid/
+75 Wall St APT 36C,NEW YORK,NY,10005,2450000,1752.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-36C-New-York-NY-10005/89331922_zpid/
+55 Liberty St FL 31,New York,NY,10005,2695000,NA,4.0,4.0,52,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Liberty-St-FL-31-New-York-NY-10005/2090552471_zpid/
+50 Pine St APT 3N,NEW YORK,NY,10005,1950000,1717.0,3.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-Pine-St-APT-3N-New-York-NY-10005/69509732_zpid/
+67 Liberty St APT 16,NEW YORK,NY,10005,950000,812.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/67-Liberty-St-APT-16-New-York-NY-10005/121189323_zpid/
+15 Broad St APT 1620,NEW YORK,NY,10005,2995000,2300.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Broad-St-APT-1620-New-York-NY-10005/79979246_zpid/
+20 Pine St APT 1715,New York,NY,10005,950000,822.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-1715-New-York-NY-10005/2089672245_zpid/
+55 Wall St APT 713,NEW YORK,NY,10005,699000,658.0,0.0,1.0,4,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Wall-St-APT-713-New-York-NY-10005/80008288_zpid/
+50 Pine St APT 3S,NEW YORK,NY,10005,1189000,NA,2.0,2.0,64,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-Pine-St-APT-3S-New-York-NY-10005/69509733_zpid/
+15 Broad St APT 2220,New York,NY,10005,2995000,2300.0,3.0,3.0,67,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Broad-St-APT-2220-New-York-NY-10005/143072728_zpid/
+15 William St #22D,New York,NY,10005,980000,698.0,0.0,1.0,8,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-22D-New-York-NY-10005/2111504550_zpid/
+101 Wall St # 20A,New York,NY,10005,1950000,963.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/101-Wall-St-20A-New-York-NY-10005/244782470_zpid/
+15 William St APT 7A,NEW YORK,NY,10005,1495000,1325.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-7A-New-York-NY-10005/112518437_zpid/
+20 Pine St APT 1503,New York,NY,10005,785000,656.0,0.0,1.0,4,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-1503-New-York-NY-10005/2094119789_zpid/
+75 Wall St APT 29M,NEW YORK,NY,10005,1747000,1244.0,2.0,2.0,231,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-29M-New-York-NY-10005/89329149_zpid/
+15 Broad St APT 1900,NEW YORK,NY,10005,2999000,2114.0,3.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Broad-St-APT-1900-New-York-NY-10005/80008649_zpid/
+75 Wall St FRNT 1,New York,NY,10005,2795000,1870.0,3.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-FRNT-1-New-York-NY-10005/2122325859_zpid/
+1 Wall Street Ct APT 209,NEW YORK,NY,10005,849999,675.0,1.0,1.0,80,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Wall-Street-Ct-APT-209-New-York-NY-10005/80006810_zpid/
+20 Pine St APT 2407,New York,NY,10005,1198000,926.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-2407-New-York-NY-10005/2117845779_zpid/
+130 Water St APT 10G,New York,NY,10005,799000,782.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/130-Water-St-APT-10G-New-York-NY-10005/2133720463_zpid/
+75 Wall St # 18M,New York,NY,10005,1670000,1244.0,2.0,2.0,8,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-18M-New-York-NY-10005/2136338496_zpid/
+75 Wall St APT 20M,NEW YORK,NY,10005,1595000,1244.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-20M-New-York-NY-10005/89333290_zpid/
+20 Pine St APT 1003,New York,NY,10005,768000,656.0,0.0,1.0,8,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-1003-New-York-NY-10005/2105329687_zpid/
+20 Pine St APT 1109,New York,NY,10005,769000,662.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-1109-New-York-NY-10005/143073941_zpid/
+15 William St APT 45L,NEW YORK,NY,10005,2595000,1592.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-45L-New-York-NY-10005/97530040_zpid/
+54 Pine St APT 5,NEW YORK,NY,10005,2495000,1805.0,2.0,1.0,7,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/54-Pine-St-APT-5-New-York-NY-10005/80005420_zpid/
+15 William St PH 2,New York,NY,10005,2995000,1657.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-PH-2-New-York-NY-10005/2122325865_zpid/
+15 Broad St APT 1010,NEW YORK,NY,10005,3000000,2196.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Broad-St-APT-1010-New-York-NY-10005/83937965_zpid/
+130 Water St APT 4M,New York,NY,10005,880000,750.0,1.0,1.0,49,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/130-Water-St-APT-4M-New-York-NY-10005/2092858367_zpid/
+15 Broad St APT 1704,NEW YORK,NY,10005,1350000,1169.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Broad-St-APT-1704-New-York-NY-10005/80014619_zpid/
+20 Pine St APT 2408,New York,NY,10005,999000,927.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-2408-New-York-NY-10005/2098979973_zpid/
+130 Water St APT 12H,New York,NY,10005,981000,1000.0,1.0,1.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/130-Water-St-APT-12H-New-York-NY-10005/2101958923_zpid/
+20 Pine St APT 1417,New York,NY,10005,945000,888.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-1417-New-York-NY-10005/2129888116_zpid/
+75 Wall St # 34K,New York,NY,10005,1495000,826.0,1.0,2.0,8,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-34K-New-York-NY-10005/2138442323_zpid/
+20 Pine St APT 1814,New York,NY,10005,1697000,1204.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-1814-New-York-NY-10005/2095296504_zpid/
+75 Wall St APT 26A,NEW YORK,NY,10005,1150000,886.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-26A-New-York-NY-10005/89330605_zpid/
+20 Pine St APT 3204A,New York,NY,10005,2295000,1600.0,3.0,2.0,31,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-3204A-New-York-NY-10005/2090169067_zpid/
+55 Wall St APT 905,NEW YORK,NY,10005,1299000,1249.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Wall-St-APT-905-New-York-NY-10005/80014607_zpid/
+15 Broad St APT 3710,NEW YORK,NY,10005,2850000,1961.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Broad-St-APT-3710-New-York-NY-10005/80012322_zpid/
+20 Pine St APT 1806,New York,NY,10005,1175000,1070.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-1806-New-York-NY-10005/2089718749_zpid/
+20 Pine St APT 806,New York,NY,10005,1249000,1070.0,0.0,1.0,11,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-806-New-York-NY-10005/2133431198_zpid/
+20 Pine St APT 2103,New York,NY,10005,999000,820.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-2103-New-York-NY-10005/2089855508_zpid/
+56 Pine St APT 15A,NEW YORK,NY,10005,725000,622.0,0.0,1.0,167,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/56-Pine-St-APT-15A-New-York-NY-10005/69509801_zpid/
+1 Wall Street Ct APT 704,NEW YORK,NY,10005,639000,460.0,0.0,1.0,23,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Wall-Street-Ct-APT-704-New-York-NY-10005/80008812_zpid/
+55 Wall St APT 904,NEW YORK,NY,10005,1500000,1121.0,1.0,2.0,339,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Wall-St-APT-904-New-York-NY-10005/80003042_zpid/
+130 Water St APT 11A,New York,NY,10005,798000,611.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/130-Water-St-APT-11A-New-York-NY-10005/2090525716_zpid/
+67 Liberty St APT 6,NEW YORK,NY,10005,1395000,1246.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/67-Liberty-St-APT-6-New-York-NY-10005/120227041_zpid/
+75 Wall St APT 22R,New York,NY,10005,1350000,1011.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-22R-New-York-NY-10005/89334719_zpid/
+15 Broad St APT 1616,NEW YORK,NY,10005,2250000,1727.0,3.0,2.0,27,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Broad-St-APT-1616-New-York-NY-10005/80009471_zpid/
+55 Wall St APT 826,NEW YORK,NY,10005,1290000,1175.0,1.0,2.0,36,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Wall-St-APT-826-New-York-NY-10005/80003663_zpid/
+15 Broad St APT 1410,NEW YORK,NY,10005,3295000,2220.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Broad-St-APT-1410-New-York-NY-10005/69509696_zpid/
+75 Wall St APT 27R,NEW YORK,NY,10005,1395000,1011.0,1.0,2.0,297,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-27R-New-York-NY-10005/89335345_zpid/
+20 Pine St APT 2209,New York,NY,10005,1848000,1444.0,2.0,2.0,182,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-2209-New-York-NY-10005/2133549688_zpid/
+20 Pine St APT 815,New York,NY,10005,999000,822.0,1.0,1.0,25,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-815-New-York-NY-10005/2126607850_zpid/
+15 William St APT 17H,NEW YORK,NY,10005,1690000,1373.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-17H-New-York-NY-10005/97498198_zpid/
+15 William St APT 45J,NEW YORK,NY,10005,1540000,960.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-45J-New-York-NY-10005/97523917_zpid/
+15 William St APT 35B,NEW YORK,NY,10005,1039000,791.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-35B-New-York-NY-10005/97509321_zpid/
+20 Pine St APT 513,New York,NY,10005,2195000,1585.0,2.0,2.0,78,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-513-New-York-NY-10005/2130078684_zpid/
+20 Pine St APT 1606,New York,NY,10005,1299000,1070.0,1.0,1.0,37,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-1606-New-York-NY-10005/2121230364_zpid/
+15 William St APT 15E,NEW YORK,NY,10005,1850000,1300.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-15E-New-York-NY-10005/97505824_zpid/
+15 William St APT 34A,NEW YORK,NY,10005,1995000,1325.0,2.0,2.0,707,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-34A-New-York-NY-10005/97517728_zpid/
+55 Wall St APT 554,NEW YORK,NY,10005,1450000,1251.0,1.0,2.0,232,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Wall-St-APT-554-New-York-NY-10005/80008741_zpid/
+15 William St APT 39G,NEW YORK,NY,10005,1295000,800.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-39G-New-York-NY-10005/97535138_zpid/
+1 Wall Street Ct APT 304,NEW YORK,NY,10005,649000,459.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Wall-Street-Ct-APT-304-New-York-NY-10005/80013370_zpid/
+15 William St APT 30B,NEW YORK,NY,10005,1200000,791.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-30B-New-York-NY-10005/97519981_zpid/
+15 William St APT 11C,NEW YORK,NY,10005,1125000,832.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-11C-New-York-NY-10005/97523058_zpid/
+20 Pine St APT 706,New York,NY,10005,1280000,1070.0,1.0,1.0,37,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-706-New-York-NY-10005/2108939718_zpid/
+15 William St APT 33D,NEW YORK,NY,10005,995000,698.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-33D-New-York-NY-10005/97503303_zpid/
+15 William St APT 39I,NEW YORK,NY,10005,1885000,1273.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-39I-New-York-NY-10005/97495870_zpid/
+20 Pine St APT 3102,New York,NY,10005,1750000,1185.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-3102-New-York-NY-10005/2116624692_zpid/
+15 Broad St APT 2316,NEW YORK,NY,10005,1350000,1175.0,0.0,1.0,218,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Broad-St-APT-2316-New-York-NY-10005/80007998_zpid/
+20 Pine St APT 1611,New York,NY,10005,1425000,1225.0,0.0,1.0,65,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-1611-New-York-NY-10005/2094223436_zpid/
+15 William St APT 27H,NEW YORK,NY,10005,1815000,1373.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-27H-New-York-NY-10005/97515292_zpid/
+15 William St APT 16F,NEW YORK,NY,10005,1050000,812.0,1.0,1.0,92,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-16F-New-York-NY-10005/112511626_zpid/
+20 Pine St APT 803,New York,NY,10005,759000,656.0,0.0,1.0,18,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-803-New-York-NY-10005/2101566444_zpid/
+130 Water St APT 8J,New York,NY,10005,895000,802.0,1.0,1.0,70,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/130-Water-St-APT-8J-New-York-NY-10005/2093540283_zpid/
+15 Broad St APT 2320,NEW YORK,NY,10005,2395000,1772.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Broad-St-APT-2320-New-York-NY-10005/80009171_zpid/
+75 Wall St APT 26J,NEW YORK,NY,10005,739000,445.0,0.0,1.0,41,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-26J-New-York-NY-10005/89332913_zpid/
+20 Pine St APT 1515,New York,NY,10005,970000,822.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-1515-New-York-NY-10005/2096154785_zpid/
+15 William St APT 42B,NEW YORK,NY,10005,1330000,791.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-42B-New-York-NY-10005/97501963_zpid/
+15 William St APT 21C,NEW YORK,NY,10005,1220000,832.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-21C-New-York-NY-10005/97502220_zpid/
+55 Wall St APT 508,NEW YORK,NY,10005,1389000,1389.0,1.0,2.0,171,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Wall-St-APT-508-New-York-NY-10005/80005928_zpid/
+75 Wall St APT 36G,NEW YORK,NY,10005,1295000,913.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-36G-New-York-NY-10005/97532041_zpid/
+20 Pine St APT 3204,New York,NY,10005,2295000,1600.0,2.0,2.0,368,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-3204-New-York-NY-10005/2116624574_zpid/
+15 William St APT 32C,NEW YORK,NY,10005,1235000,832.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-32C-New-York-NY-10005/97497732_zpid/
+130 Water St APT 7E,New York,NY,10005,649000,520.0,0.0,1.0,92,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/130-Water-St-APT-7E-New-York-NY-10005/2091147604_zpid/
+15 William St APT 30C,NEW YORK,NY,10005,1300000,832.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-30C-New-York-NY-10005/97539601_zpid/
+75 Wall St APT 18M,NEW YORK,NY,10005,1670000,1244.0,2.0,2.0,109,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-18M-New-York-NY-10005/89331290_zpid/
+15 William St APT 24D,NEW YORK,NY,10005,950000,698.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-24D-New-York-NY-10005/97512239_zpid/
+75 Wall St APT 38O,NEW YORK,NY,10005,2495000,1482.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-38O-New-York-NY-10005/89334360_zpid/
+15 William St APT 11C,NEW YORK,NY,10005,1125000,832.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-11C-New-York-NY-10005/97523058_zpid/
+20 Pine St APT 706,New York,NY,10005,1280000,1070.0,1.0,1.0,37,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-706-New-York-NY-10005/2108939718_zpid/
+15 William St APT 33D,NEW YORK,NY,10005,995000,698.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-33D-New-York-NY-10005/97503303_zpid/
+15 William St APT 39I,NEW YORK,NY,10005,1885000,1273.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-39I-New-York-NY-10005/97495870_zpid/
+20 Pine St APT 3102,New York,NY,10005,1750000,1185.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-3102-New-York-NY-10005/2116624692_zpid/
+15 Broad St APT 2316,NEW YORK,NY,10005,1350000,1175.0,0.0,1.0,218,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Broad-St-APT-2316-New-York-NY-10005/80007998_zpid/
+20 Pine St APT 1611,New York,NY,10005,1425000,1225.0,0.0,1.0,65,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-1611-New-York-NY-10005/2094223436_zpid/
+15 William St APT 27H,NEW YORK,NY,10005,1815000,1373.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-27H-New-York-NY-10005/97515292_zpid/
+15 William St APT 16F,NEW YORK,NY,10005,1050000,812.0,1.0,1.0,92,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-16F-New-York-NY-10005/112511626_zpid/
+20 Pine St APT 803,New York,NY,10005,759000,656.0,0.0,1.0,18,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-803-New-York-NY-10005/2101566444_zpid/
+130 Water St APT 8J,New York,NY,10005,895000,802.0,1.0,1.0,70,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/130-Water-St-APT-8J-New-York-NY-10005/2093540283_zpid/
+15 Broad St APT 2320,NEW YORK,NY,10005,2395000,1772.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Broad-St-APT-2320-New-York-NY-10005/80009171_zpid/
+75 Wall St APT 26J,NEW YORK,NY,10005,739000,445.0,0.0,1.0,41,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-26J-New-York-NY-10005/89332913_zpid/
+20 Pine St APT 1515,New York,NY,10005,970000,822.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-1515-New-York-NY-10005/2096154785_zpid/
+15 William St APT 42B,NEW YORK,NY,10005,1330000,791.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-42B-New-York-NY-10005/97501963_zpid/
+15 William St APT 21C,NEW YORK,NY,10005,1220000,832.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-21C-New-York-NY-10005/97502220_zpid/
+55 Wall St APT 508,NEW YORK,NY,10005,1389000,1389.0,1.0,2.0,171,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Wall-St-APT-508-New-York-NY-10005/80005928_zpid/
+75 Wall St APT 36G,NEW YORK,NY,10005,1295000,913.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-36G-New-York-NY-10005/97532041_zpid/
+20 Pine St APT 3204,New York,NY,10005,2295000,1600.0,2.0,2.0,368,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-3204-New-York-NY-10005/2116624574_zpid/
+15 William St APT 32C,NEW YORK,NY,10005,1235000,832.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-32C-New-York-NY-10005/97497732_zpid/
+130 Water St APT 7E,New York,NY,10005,649000,520.0,0.0,1.0,92,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/130-Water-St-APT-7E-New-York-NY-10005/2091147604_zpid/
+15 William St APT 30C,NEW YORK,NY,10005,1300000,832.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-30C-New-York-NY-10005/97539601_zpid/
+75 Wall St APT 18M,NEW YORK,NY,10005,1670000,1244.0,2.0,2.0,109,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-18M-New-York-NY-10005/89331290_zpid/
+15 William St APT 24D,NEW YORK,NY,10005,950000,698.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-24D-New-York-NY-10005/97512239_zpid/
+75 Wall St APT 38O,NEW YORK,NY,10005,2495000,1482.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-38O-New-York-NY-10005/89334360_zpid/
+75 Wall St APT 26K,NEW YORK,NY,10005,1295000,826.0,1.0,2.0,100,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-26K-New-York-NY-10005/97534412_zpid/
+55 Wall St APT 605,NEW YORK,NY,10005,968000,1041.0,1.0,1.0,101,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Wall-St-APT-605-New-York-NY-10005/80009615_zpid/
+75 Wall St APT 35K,NEW YORK,NY,10005,1195000,874.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-35K-New-York-NY-10005/97529680_zpid/
+15 William St APT 30G,NEW YORK,NY,10005,1235000,800.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-30G-New-York-NY-10005/97499146_zpid/
+75 Wall St APT 29C,NEW YORK,NY,10005,1880000,1352.0,2.0,2.0,238,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-29C-New-York-NY-10005/89334881_zpid/
+15 William St APT 44K,NEW YORK,NY,10005,1550000,1065.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-44K-New-York-NY-10005/97542473_zpid/
+15 William St APT 27B,NEW YORK,NY,10005,1170000,791.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-27B-New-York-NY-10005/97520396_zpid/
+20 Pine St APT 2114,New York,NY,10005,1385000,991.0,1.0,1.0,71,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-2114-New-York-NY-10005/2133170485_zpid/
+75 Wall St APT 28C,NEW YORK,NY,10005,1825000,1352.0,2.0,2.0,242,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-28C-New-York-NY-10005/89333846_zpid/
+15 William St APT 22D,NEW YORK,NY,10005,980000,698.0,0.0,1.0,836,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-22D-New-York-NY-10005/97508762_zpid/
+20 Pine St APT 818,New York,NY,10005,1700000,1387.0,2.0,2.0,224,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-818-New-York-NY-10005/2092558375_zpid/
+20 Pine St APT 1816,New York,NY,10005,1050000,1005.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-1816-New-York-NY-10005/2129888110_zpid/
+15 William St APT 38D,NEW YORK,NY,10005,1020000,698.0,0.0,1.0,234,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-38D-New-York-NY-10005/97501668_zpid/
+20 Pine St PH 41,New York,NY,10005,3400000,1476.0,2.0,2.0,296,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-PH-41-New-York-NY-10005/2105692100_zpid/
+20 Pine St APT 1911,New York,NY,10005,1020000,595.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-1911-New-York-NY-10005/2121648945_zpid/
+20 Pine St APT 1517,New York,NY,10005,975000,888.0,0.0,1.0,109,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-1517-New-York-NY-10005/2091415728_zpid/
+75 Wall St APT 34K,NEW YORK,NY,10005,1495000,826.0,1.0,2.0,372,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Wall-St-APT-34K-New-York-NY-10005/89335443_zpid/
+15 William St APT 25A,NEW YORK,NY,10005,1875000,1325.0,2.0,2.0,602,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-25A-New-York-NY-10005/97522375_zpid/
+1 Wall Street Ct APT 404,NEW YORK,NY,10005,639000,460.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Wall-Street-Ct-APT-404-New-York-NY-10005/79978499_zpid/
+15 William St APT 29D,NEW YORK,NY,10005,980000,698.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-29D-New-York-NY-10005/97502615_zpid/
+15 William St APT 30E,NEW YORK,NY,10005,2280000,1300.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-William-St-APT-30E-New-York-NY-10005/97537021_zpid/
+15 Broad St APT 1202,NEW YORK,NY,10005,1195000,943.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Broad-St-APT-1202-New-York-NY-10005/80008159_zpid/
+20 Pine St APT 2314,New York,NY,10005,1339000,991.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-2314-New-York-NY-10005/2091072611_zpid/
+20 Pine St APT 1602,New York,NY,10005,1895000,1277.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Pine-St-APT-1602-New-York-NY-10005/2092392041_zpid/
+Pine St # 809,New York,NY,10005,NA,662.0,0.0,NA,68,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/245936984_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
